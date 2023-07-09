@@ -1,2 +1,2 @@
 # Excel_Project
-En este repositorio ire subiendo practicas de excel.
+En este repositorio subire proyectos de excel.
